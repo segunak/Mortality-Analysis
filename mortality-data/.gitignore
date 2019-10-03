@@ -1,0 +1,3 @@
+# This prevents the data files from commiting. They are huge. 
+*.csv
+
