@@ -1,2 +1,5 @@
 # Ignoring DS Store
 .DS_Store
+
+# Ignoring checkpoint files
+.ipynb_checkpoints/
