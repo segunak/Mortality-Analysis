@@ -1,5 +1,9 @@
 # Ignoring DS Store
 .DS_Store
 
+# Ignoring all Hidden Stuff, except this file
+.*
+!/.gitignore
+
 # Ignoring checkpoint files
 .ipynb_checkpoints/
