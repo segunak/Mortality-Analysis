@@ -259,7 +259,7 @@
         "Blank": "Causes other than W00-Y34, except Y06.- and Y07.-"
     },
     "icd_code_10th_revision": {
-        "Icd Code (10Th Revision)": NaN
+        "Icd Code (10Th Revision)": "NaN"
     },
     "358_cause_recode": {
         "001": "I. Certain infectious and parasitic diseases (A00-B99)",
