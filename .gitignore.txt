@@ -2,5 +2,4 @@
 .DS_Store
 
 # Ignoring Hidden Stuff
-.*
-!/.gitignore
+/.ipynb_checkpoints
