@@ -3,3 +3,7 @@
 
 # Ignoring Hidden Stuff
 /.ipynb_checkpoints
+
+#Folders
+/mortality-data
+/data-from-canvas
