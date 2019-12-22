@@ -5,5 +5,5 @@
 /.ipynb_checkpoints
 
 #Folders
-/mortality-data
-/data-from-canvas
+mortality-data/
+data-from-canvas/
