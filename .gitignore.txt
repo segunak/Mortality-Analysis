@@ -1,6 +1,3 @@
-# Ignoring DS Store
-.DS_Store
-
 # Ignoring Hidden Stuff
 /.ipynb_checkpoints
 
