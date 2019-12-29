@@ -1,5 +1,5 @@
 # Ignoring Hidden Stuff
-/.ipynb_checkpoints
+.ipynb_checkpoints
 
 #Folders
 mortality-data/
